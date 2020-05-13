@@ -26,70 +26,70 @@
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="280,38,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" />
+			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Background="#FFB2ADAD" />
         <Label
 			Name="SolveLabel2"
 			Width="264" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="548,38,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" />
+			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Background="#FFB2ADAD" />
         <Label
 			Name="SolveLabel3"
 			Width="264" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="816,37,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" RenderTransformOrigin="0.504,0.462" />
+			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" RenderTransformOrigin="0.504,0.462" Background="#FFB2ADAD" />
         <Label
 			Name="SolveLabel4"
 			Width="50" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="280,68,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#FFB2ADAD" />
         <Label
 			Name="SolveLabel5"
 			Width="60" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="334,68,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#FFB2ADAD" />
         <Label
 			Name="SolveLabel6"
 			Width="50" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="398,68,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#FFB2ADAD" />
         <Label
 			Name="SolveLabel7"
 			Width="60" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="452,68,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#FFB2ADAD" />
         <Label
 			Name="SolveLabel8"
 			Width="253" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="516,68,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" />
+			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Background="#FFB2ADAD" />
         <Label
 			Name="SolveLabel9"
 			Width="50" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="773,68,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+			HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#FFB2ADAD" />
         <Label
 			Name="SolveLabel10"
 			Width="253" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
 			Margin="827,68,0,0" 
 			FontFamily="Arial" FontSize="14" FontWeight="Bold"
-			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" />
+			HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Background="#FFB2ADAD" />
         <Label
 			Width="120" Height="26"
 			HorizontalAlignment="Left" VerticalAlignment="Top"
